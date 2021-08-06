@@ -222,13 +222,13 @@
                                             <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="238" id="REo-9g-oOX"/>
                                         </constraints>
                                     </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jxu-Ef-xjf">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="info(title + year)" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jxu-Ef-xjf">
                                         <rect key="frame" x="0.0" y="409" width="238" height="86"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="86" id="4dW-dZ-hfd"/>
                                             <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="238" id="DXK-Tp-lAB"/>
                                         </constraints>
-                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="20"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="18"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
